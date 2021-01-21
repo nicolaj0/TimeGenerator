@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7k5pA7u7xPOXJuPhXK2a8oar35eGgX9FL5tsmb5o86l8X9RaWpqBYHtppFyDRPoO7nI4GkPMDySRPKFY9L8KGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\junic\\RiderProjects\\TimeGenerator\\TimeGenerator\\TimeGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\junic\\.nuget\\packages\\nodatime\\3.0.3\\nodatime.3.0.3.nupkg.sha512",
+    "C:\\Users\\junic\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

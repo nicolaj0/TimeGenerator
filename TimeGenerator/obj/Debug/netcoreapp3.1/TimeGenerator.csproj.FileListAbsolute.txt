@@ -1,0 +1,16 @@
+C:\Users\junic\RiderProjects\TimeGenerator\TimeGenerator\bin\Debug\netcoreapp3.1\TimeGenerator.exe
+C:\Users\junic\RiderProjects\TimeGenerator\TimeGenerator\bin\Debug\netcoreapp3.1\TimeGenerator.deps.json
+C:\Users\junic\RiderProjects\TimeGenerator\TimeGenerator\bin\Debug\netcoreapp3.1\TimeGenerator.runtimeconfig.json
+C:\Users\junic\RiderProjects\TimeGenerator\TimeGenerator\bin\Debug\netcoreapp3.1\TimeGenerator.runtimeconfig.dev.json
+C:\Users\junic\RiderProjects\TimeGenerator\TimeGenerator\bin\Debug\netcoreapp3.1\TimeGenerator.dll
+C:\Users\junic\RiderProjects\TimeGenerator\TimeGenerator\bin\Debug\netcoreapp3.1\TimeGenerator.pdb
+C:\Users\junic\RiderProjects\TimeGenerator\TimeGenerator\obj\Debug\netcoreapp3.1\TimeGenerator.csprojAssemblyReference.cache
+C:\Users\junic\RiderProjects\TimeGenerator\TimeGenerator\obj\Debug\netcoreapp3.1\TimeGenerator.AssemblyInfoInputs.cache
+C:\Users\junic\RiderProjects\TimeGenerator\TimeGenerator\obj\Debug\netcoreapp3.1\TimeGenerator.AssemblyInfo.cs
+C:\Users\junic\RiderProjects\TimeGenerator\TimeGenerator\obj\Debug\netcoreapp3.1\TimeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\junic\RiderProjects\TimeGenerator\TimeGenerator\obj\Debug\netcoreapp3.1\TimeGenerator.dll
+C:\Users\junic\RiderProjects\TimeGenerator\TimeGenerator\obj\Debug\netcoreapp3.1\TimeGenerator.pdb
+C:\Users\junic\RiderProjects\TimeGenerator\TimeGenerator\obj\Debug\netcoreapp3.1\TimeGenerator.genruntimeconfig.cache
+C:\Users\junic\RiderProjects\TimeGenerator\TimeGenerator\bin\Debug\netcoreapp3.1\NodaTime.dll
+C:\Users\junic\RiderProjects\TimeGenerator\TimeGenerator\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\junic\RiderProjects\TimeGenerator\TimeGenerator\obj\Debug\netcoreapp3.1\TimeGenerator.csproj.CopyComplete
